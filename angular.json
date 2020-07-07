@@ -24,7 +24,8 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": []
           },
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "HttpAngular"
+    }
+  },
+  "defaultProject": "HttpAngular",
+  "cli": {
+    "analytics": "fe5cfbc0-ab4f-41b4-969b-58de19d0cb23"
+  }
 }
